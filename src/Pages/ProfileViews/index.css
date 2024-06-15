@@ -1,0 +1,28 @@
+.topButtonSection{
+    display: grid;
+    grid-template-columns: 54% 46%;
+}
+td{
+    border-bottom: 1px solid #E3E3E5;
+}
+th{
+    border-bottom: 1px solid #E3E3E5;
+    font-size: 17px;
+    font-weight: 500;
+}
+.pageBtn{
+    background-color: #fff;
+    color: #898B97;
+    border: 1px solid#EEEFF1;
+}
+.clickButon{
+    background-color: #2870FB;
+    color: #fff;
+}
+@media screen and (max-width: 800px) {
+    .topButtonSection{
+        display: grid;
+        grid-template-columns: 100% ;
+        grid-template-rows: 80px 60px;
+    }
+  }

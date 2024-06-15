@@ -1,0 +1,8 @@
+.topSection{
+    display: grid;
+    grid-template-columns: "49% 2% 49%";
+     border:  1px solid #E3E3E5;
+}
+.topSubSection{
+    display: flex;
+}

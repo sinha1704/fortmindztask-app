@@ -1,0 +1,43 @@
+#LinkClass{
+    color: black;
+    text-decoration: none;
+    font-size: 14px;
+
+}
+#listingSunmenu{
+    color: black;
+    text-decoration: none;
+}
+#Campaigns{
+    color: black;
+    text-decoration: none;
+    font-size: 8px;
+
+}
+#Explore_Band_Deals{
+    color: black;
+    text-decoration: none;
+}
+#Profile_Activity{
+    color: black;
+    text-decoration: none; 
+}
+#Messages{
+    color: black;
+    text-decoration: none; 
+}
+#Reviews{
+    color: black;
+    text-decoration: none;   
+}
+#Logout{
+    color: black;
+    text-decoration: none;  
+    font-size: 5px;
+}
+.sidebarList:hover{
+background: #2870FB;
+}
+.sidebarListText:hover{
+    color: #fff;
+}
